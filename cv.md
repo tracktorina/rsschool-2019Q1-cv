@@ -1,8 +1,8 @@
 # Maria Prudnikova
 
-*__tel:__ +375293555259
-*__e-mail:__ prudnik.mary@gmail.com
-*__Location:__ Minsk, Belarus
+* __tel:__ +375293555259
+* __e-mail:__ prudnik.mary@gmail.com
+* __Location:__ Minsk, Belarus
 
 ## Summary
 I used to study physics. Unfortunately science researches are unpopular field in Belarus.
