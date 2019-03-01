@@ -19,9 +19,9 @@ Python Basics, HTML Basics, CSS Basics
 Completed CS101 courses at Udacity and CS50 at Edx.
 
 ## Education 
- 2015-2016 Belarusian National Technical University, Department of Instrumentation Engineering
- 2010-2015 Belarussian State University, Department of Physics
- 2009-2010 Belarussian State University, Department of Mechanics and Mathematics
+* 2015-2016 Belarusian National Technical University, Department of Instrumentation Engineering
+* 2010-2015 Belarussian State University, Department of Physics
+* 2009-2010 Belarussian State University, Department of Mechanics and Mathematics
 
 ## English level 
 Intermediate (Streamline courses and hands-on practice in Great Britain).
