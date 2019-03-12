@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cv {
+    max-width: 1024px;
+    position: relative;
+	top:0;
+	bottom: 0;
+	left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 20px 200px;
+}
+
+.photo {
+    width: 150px;
+	height: 150px;
+    position: absolute;
+    top: 25px;
+    left: 660px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.photo img {
+    width: 160px;
+}
+
+h1 {
+    padding: 10px 0;
+    color: rgb(106, 163, 163);
+}
+
+h2 {
+    padding: 10px 0;
+}
+
+.cv ul {
+    padding-left: 45px;
+    font-size: 17px;
+}
+
+.cv p {
+    max-width: 650px;
+    font-size: 17px;
+}
